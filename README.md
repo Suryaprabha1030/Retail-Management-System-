@@ -1,7 +1,7 @@
 RETAIL MANAGEMENT SYSTEM
 
 Abstract :
-     The project Grocery Management System deals with the automation of grocery.It includes both sales and purchase of items . The project is developed with the objective of making the system reliable,easier,fast,and more informative.There is a lot of reason for the introduction of this project.In the manual System, there are number of inefficiencies that a sales person faces. Large records-books have to be maintained where relevant information has to be stored which is very untidy and clumsy process.But our System reduces paper works.On the other hand ,there are many inherent problems that exist in any manual system.Usually,they lack efficiency.Less efficiency has a great impact on the productivity of any human being keeping the data up-to-date.
+     The project Grocery Management System deals with the automation of grocery. It includes both sales and purchase of items . The project is developed with the objective of making the system reliable, easier, fast and more informative. There is a lot of reason for the introduction of this project. In the manual System, there are number of inefficiencies that a sales person faces. Large records-books have to be maintained where relevant information has to be stored which is very untidy and clumsy process.But our System reduces paper works. On the other hand , there are many inherent problems that exist in any manual system. Usually,they lack efficiency. Less efficiency has a great impact on the productivity of any human being keeping the data up-to-date.
      
 Flowchart:
 
